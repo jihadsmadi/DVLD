@@ -1,0 +1,6 @@
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Data Access Layer\bin\Debug\Data Access Layer.dll
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Data Access Layer\bin\Debug\Data Access Layer.pdb
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Data Access Layer\obj\Debug\Data Access Layer.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Data Access Layer\obj\Debug\Data Access Layer.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Data Access Layer\obj\Debug\Data Access Layer.dll
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Data Access Layer\obj\Debug\Data Access Layer.pdb

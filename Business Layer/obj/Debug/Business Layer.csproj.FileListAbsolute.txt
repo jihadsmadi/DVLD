@@ -1,0 +1,9 @@
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Business Layer\bin\Debug\Business Layer.dll
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Business Layer\bin\Debug\Business Layer.pdb
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Business Layer\bin\Debug\Data Access Layer.dll
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Business Layer\bin\Debug\Data Access Layer.pdb
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Business Layer\obj\Debug\Business Layer.csproj.AssemblyReference.cache
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Business Layer\obj\Debug\Business Layer.csproj.CoreCompileInputs.cache
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Business Layer\obj\Debug\Business Layer.csproj.CopyComplete
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Business Layer\obj\Debug\Business Layer.dll
+D:\Work Space\Programming\Programming Advice\Full Real Project Course19\Business Layer\obj\Debug\Business Layer.pdb
